@@ -12,6 +12,7 @@ print(radius)
 
 # shell vs editor 
 type(5)
+<br>
 print(3.0-1)
 
 # Bindings
